@@ -1,0 +1,12 @@
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/util/FastJsonUtils.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/kafka/SyncSentToKafkaController.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/kafka/operation/ProducerOperation.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/guaua/eventbus/RunTest.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/kafka/config/KafkaConfig.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/Application.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/guaua/eventbus/event/SayHiEvent.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/guaua/eventbus/listen/SayHiListener.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/guaua/eventbus/listen/EventListener.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/guaua/eventbus/event/TestEvent.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/kafka/Test.java
+/Users/wanghanchao/eclipse201906-workspace/com.example/src/main/java/com/mrwang/example/kafka/operation/ConsumerOperation.java
