@@ -12,6 +12,7 @@ import com.mrwang.example.thrift.dto.ProjectInfoService;
 import com.mrwang.example.thrift.service.ProjectInfoServiceImp;
 
 public class NonblockingServer {
+	
 	public static void main(String[] args) throws TTransportException {
 		TNonblockingServerSocket socket = new TNonblockingServerSocket(8899);
 		// 高可用的server,并设置工作线程的最大值和最小值
