@@ -13,7 +13,7 @@ public class Example {
 		Method getCode = clz.getMethod("getCode");
 		Method getName = clz.getMethod("getName");
 		for (Object obj : objects) {
-			System.out.println(obj.getClass() );
+			System.out.println(obj.getClass());
 			// 3.调用对应方法，得到枚举常量中字段的值
 			System.out.println("code=" + getCode.invoke(obj) + "; name=" + getName.invoke(obj));
 		}
